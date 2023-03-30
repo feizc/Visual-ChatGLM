@@ -1,3 +1,9 @@
+<p align="center">
+     <img src="figures/logo.png" alt="logo" width = "600">
+     <br/>
+</p>
+
+
 # 👀 Open ChatGLM Eyes to See the World
 
 This project aims to fine-tune ChatGLM for visual understanding and generation. 
